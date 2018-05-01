@@ -1,0 +1,23 @@
+.nav-buttons {
+  color: white;
+}
+
+h1 {
+  padding-top: 10px;
+}
+
+.page {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.bg-tertiary {
+  background-color: #C3DDE0;
+}
+
+.thicc img{
+height: auto;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
